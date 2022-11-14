@@ -1,4 +1,4 @@
-# Formal specification using Petri Nets
+# Formal specification using Petri Nets.
 
 using petri net we formally specify the following system:
 
